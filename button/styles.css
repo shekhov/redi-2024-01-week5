@@ -1,0 +1,13 @@
+.normal-button{
+    width: 300;
+    height: 200;
+    background-color: aquamarine;
+    color: #000000;
+}
+
+.clicked-button{
+    width: 300;
+    height: 200;
+    background-color: green;
+    color: black;
+}
